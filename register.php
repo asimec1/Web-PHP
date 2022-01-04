@@ -65,7 +65,7 @@
 			<br>
 			<label for="country">Zemlja : </label>
 			<select id="country" name="country">
-							<option value="">molimo odaberite</option>
+							<option value="">molimo odaberite</option> /* Ovo sve stavite u bazu! */
 							<option value="AF"> Afghanistan</option>
 										<option value= "AL"> Albania</option>
 										<option value= "DZ"> Algeria</option>
